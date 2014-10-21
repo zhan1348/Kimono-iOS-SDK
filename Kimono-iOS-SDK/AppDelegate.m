@@ -26,7 +26,7 @@
         NSLog(@"Success - Get Data");
         
     } failure:^(NSError *error) {
-        
+        NSLog(@"Error: %@", error);
     }];
     
     
