@@ -19,7 +19,7 @@
     [Kimono setAPIKey:yourAPIKey];
     
     
-    NSString *yourAPIId = @"2wwctra6";
+    NSString *yourAPIId = @"7lmiinxs";
     KimonoOperation *operation = [KimonoOperation createWithAPIId:yourAPIId];
     
     [operation getDataCompletionBlockWithSuccess:^(KimonoObject *kimonoObject, NSDictionary *responseResults) {
