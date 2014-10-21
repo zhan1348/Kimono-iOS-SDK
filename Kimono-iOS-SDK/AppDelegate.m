@@ -15,7 +15,7 @@
 {
     // Override point for customization after application launch.
     
-    NSString *yourAPIKey = @"8541e9ff8ff5291b4d84b9f75550c9b8";
+    NSString *yourAPIKey = @"lgro5HXUJL8loROwDQEuCrOULXJuvNlg";
     [Kimono setAPIKey:yourAPIKey];
     
     
